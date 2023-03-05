@@ -1,0 +1,233 @@
+.profile {
+  margin-top: 10%;
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+  /* align-content: space-around; */
+  padding: 20px;
+}
+.name {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 300%;
+
+  color: #242831;
+}
+.email {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  margin-top: -40px;
+  color: #6b6b6b;
+}
+.num_name {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  margin-top: -30px;
+  text-align: center;
+
+  color: #6b6b6b;
+}
+.num {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 140%;
+  /* identical to box height, or 28px */
+
+  color: #242831;
+}
+.time {
+  margin-top: -20px;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.button_left {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 140%;
+  /* identical to box height, or 20px */
+  /* text-align: center; */
+  color: #242831;
+}
+.btn {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.text {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  /* or 22px */
+
+  color: #242831;
+}
+.pdf {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  /* identical to box height, or 17px */
+  color: #36393e;
+  padding: 14px 0px 0px 0px;
+  background: #f9f9f9;
+  width: 226px;
+  height: 49px;
+  text-align: center;
+  margin-top: 5%;
+}
+.files {
+  margin-top: 35%;
+}
+.right {
+  margin-top: 8%;
+}
+.num_name_detail {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+
+  color: #6b6b6b;
+}
+.num_detail {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  margin-top: -5%;
+  color: #242831;
+}
+.hr {
+  margin-top: -15%;
+}
+.details {
+  align-items: flex-start;
+}
+.btn_tab {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  /* identical to box height, or 17px */
+  border: none;
+  text-align: center;
+  padding: 5px 50px 5px 50px;
+  color: #6b6b6b;
+}
+.tab_bar {
+  background-color: #f8f8f8;
+  padding: 12px;
+  gap: 10px;
+  border-radius: 5px;
+}
+.tab {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-top: 4%;
+  margin-left: -4%;
+}
+.container_treatment {
+  background: #f8f8f8;
+  border-radius: 10px;
+  /* background: #f8f8f8;
+  border-radius: 10px; */
+}
+.container_treatment {
+  margin-top: 5%;
+  margin-left: -2%;
+}
+.treat_header {
+  margin-left: 5%;
+  margin-top: 3%;
+  display: flex;
+  flex-direction: row;
+  gap: 60%;
+  padding: 20px 0px 20px 0px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  /* identical to box height, or 17px */
+
+  color: #242831;
+}
+.root {
+  padding-top: 20px;
+}
+.show {
+  padding-top: 20px;
+}
+.hr_treat {
+  opacity: 0.2;
+  border: 1px solid #6b6b6b;
+}
+.one {
+  display: flex;
+  flex-direction: row;
+  margin-top: -20px;
+  justify-content: space-evenly;
+  text-align: center;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.treat_details {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  margin: 3%;
+}
+.one {
+  background: #ffffff;
+
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.05);
+}
+.one_1_1 {
+  margin-top: -40px;
+  text-align: center;
+  font-size: 12px;
+  color: #6b6b6b;
+}
+.one_1 {
+  font-weight: 700;
+  font-size: 24px;
+  color: #242831;
+}
+.treat_div {
+  margin-top: 5%;
+}
+.one_2 {
+  margin-top: 20px;
+  font-size: 12px;
+  color: #6b6b6b;
+}
+.one_2_1 {
+  margin-top: -40px;
+  text-align: center;
+  font-size: 16px;
+  color: #242831;
+}
+.not {
+  margin-top: 40px;
+  color: #3156c8;
+  font-size: 12px;
+}

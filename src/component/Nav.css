@@ -1,0 +1,24 @@
+.container-nav {
+  justify-items: center;
+}
+.col-nav {
+  justify-items: center;
+  text-align: center;
+  align-content: space-around;
+  padding: 20px;
+}
+#vector {
+  background-color: #29b712;
+  /* width: 85px;
+  height: 71px; */
+}
+p {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 300%;
+  /* or 88px */
+
+  color: rgba(0, 0, 0, 0.3);
+}
